@@ -1,0 +1,118 @@
+Actinium Ac 89
+Aluminum Al 13
+Americium Am 95
+Antimony Sb 51
+Argon Ar 18
+Arsenic As 33	2.18
+Astatine At 85	2.2
+Barium Ba 56 0.89	1
+Berkelium Bk 97	1.3
+Beryllium Be 4	1.57
+Bismuth	Bi 83	2.02
+Bohrium	Bh 107	1
+Boron B	5 2.04
+Bromine Br 35	2.96
+Cadmium Cd 48	1.69
+Calcium	Ca 20	1
+Californium Cf 98
+Carbon C	6
+Cerium Ce	58
+Cesium Cs	55
+Chlorine Cl	17
+Chromium Cr	24
+Cobalt Co	27
+Copper Cu	29
+Curium Cm	96
+Darmstadtium Ds	110	1
+Dubnium Db	105	1
+Dysprosium Dy	66	1.22
+Einsteinium Es	99	1.3
+Erbium Er	68	1.24
+Europium Eu	63	1
+Fermium Fm	100	1.3
+Fluorine F	9	3.98
+Francium Fr	87	0.7
+Gadolinium Gd	64	1.2
+Gallium Ga	31	1.81
+Germanium Ge	32	2.01
+Gold Au	79	2.54
+Hafnium Hf	72	1.3
+Hassium Hs	108	1
+Helium He	2	1
+Holmium Ho	67	1.23
+Hydrogen H	1	2.2
+Indium In	49	1.78
+Iodine I	53	2.66
+Iridium Ir	77	2.2
+Iron Fe	26	1.83
+Krypton Kr	36	3
+Lanthanum La	57	1.1
+Lawrencium Lr	103	1
+Lead Pb	82	2.33
+Lithium	Li	3	0.98
+Lutetium Lu	71	1.27
+Magnesium Mg	12	1.31
+Manganese Mn	25	1.55
+Meitnerium Mt	109	1
+Mendelevium Md	101	1.3
+Mercury Hg	80	2
+Molybdenum Mo	42
+Neodymium Nd	60
+Neon Ne	10	1
+Neptunium Np	93
+Nickel Ni	28
+Niobium Nb	41
+Nitrogen N	7
+Nobelium No	102
+Oganesson Uuo	118
+Osmium Os	76
+Oxygen O	8
+Palladium Pd	46
+Phosphorus P	15
+Platinum Pt	78
+Plutonium Pu	94
+Polonium Po	84
+Potassium K	19
+Praseodymium Pr	59
+Promethium Pm	61
+Protactinium Pa	91
+Radium Ra	88
+Radon Rn	86
+Rhenium Re	75
+Rhodium Rh	45
+Roentgenium Rg	111
+Rubidium Rb	37
+Ruthenium Ru	44
+Rutherfordium Rf	1
+Samarium Sm	62
+Scandium Sc	21
+Seaborgium Sg	106
+Selenium Se	34
+Silicon Si	14
+Silver Ag	47
+Sodium Na	11
+Strontium Sr	38
+Sulfur S	16
+Tantalum Ta	73
+Technetium Tc	43
+Tellurium Te	52
+Terbium	Tb	65
+Thallium Tl	81
+Thorium Th	90
+Thulium Tm	69
+Tin Sn	50	1.96
+Titanium Ti	22
+Tungsten W	74
+Ununbium Uub	112
+Ununhexium Uuh	116
+Ununpentium Uup	115
+Ununquadium Uuq	114
+Ununseptium Uus	117
+Ununtrium Uut	113
+Uranium U	92
+Vanadium V	23
+Xenon Xe	54
+Ytterbium Yb	70
+Yttrium Y	39
+Zinc Zn	30	1.65
+Zirconium Zr	40
